@@ -1,0 +1,1 @@
+# remove-large-background-rectangles-in-SVG-files
